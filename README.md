@@ -1,2 +1,2 @@
-# guacamole
-git workshop
+# Guacamole
+**git** workshop
